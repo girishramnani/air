@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/codegangsta/cli"
-	"github.com/gongo/go-airplay"
+	"github.com/girishramnani/go-airplay"
 )
 
 var (
